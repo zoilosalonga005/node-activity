@@ -1,9 +1,11 @@
 #node-activity
-Vanilla PHP version of Xendit Demo
+
 
 ## Requirement
-- PHP >= 7.3+
-- Composer is required. Get composer from https://getcomposer.org/download/
+- Node JS >= v.8.10.0
+
+##Package Installed
+- convert-excel-to-json https://www.npmjs.com/package/convert-excel-to-json
 
 ## Installation
 After cloning this repository, just do:
