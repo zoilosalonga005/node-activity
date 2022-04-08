@@ -37,8 +37,6 @@ class Utilx {
           } catch (error) {
             console.error(error);
           }
-          
-        
     }
 
 }
