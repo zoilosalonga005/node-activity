@@ -1,4 +1,4 @@
-#node-activity
+# node-activity
 
 
 ## Requirement
@@ -6,6 +6,7 @@
 
 ## Package Installed
 - convert-excel-to-json https://www.npmjs.com/package/convert-excel-to-json
+- json2xls https://www.npmjs.com/package/json2xls
 
 ## Usage
 After cloning this repository, just call the name of the function: Sample usage
