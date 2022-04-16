@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/zoilosalonga005/node-activity/issues"
   },
-  "homepage": "https://github.com/zoilosalonga005/node-activity#readme"
+  "homepage": "https://github.com/zoilosalonga005/node-activity#readme",
+  "dependencies": {
+    "1ro": "^1.2.3",
+    "barcode": "^0.1.0",
+    "canvas": "^2.9.1",
+    "combine-image": "^1.0.3",
+    "convert-excel-to-json": "^1.7.0",
+    "images": "^3.2.4",
+    "json2xls": "^0.1.2",
+    "merge-images": "^2.0.0",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.0"
+  }
 }
